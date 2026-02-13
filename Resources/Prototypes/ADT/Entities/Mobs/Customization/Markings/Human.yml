@@ -62,7 +62,7 @@
     default:
       type:
         !type:CategoryColoring
-        category: Hair
+          category: Hair
       fallbackTypes:
         - !type:CategoryColoring
           category: FacialHair
@@ -71,7 +71,7 @@
       ears_horse_inner:
         type:
           !type:CategoryColoring
-          category: Hair
+            category: Hair
         fallbackTypes:
           - !type:CategoryColoring
             category: FacialHair
